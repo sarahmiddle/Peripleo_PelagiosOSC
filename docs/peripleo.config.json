@@ -5,7 +5,7 @@
     {
       "name": "Pelagios/OSC - First Two Objects",
       "format": "LINKED_PLACES",
-      "src": "./data/OSCPelagiosExport_2373_DescriptiveFieldsOnly_Sample_V1_20240603.txt.geojson",
+      "src": "./data/Peripleo_Data_OSCPelagios_FirstTwoObjects_20240716.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
