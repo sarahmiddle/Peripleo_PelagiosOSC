@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Pelagios/OSC - First Two Objects",
+      "name": "Pelagios/OSC - First Three Objects",
       "format": "RECOGITO_IMAGE",
       "src": "./data/OSCPelagios_FirstThreeObjects_20240911.geojson",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
