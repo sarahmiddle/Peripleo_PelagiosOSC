@@ -12,7 +12,8 @@
 				"place_id":5022513,
 				"source_id":"7011781",
 				"dataset":"tgn_filtered_01",
-				"quotes":["London"]
+				"quotes":["London"],
+				"annotation_context":"\"by Messrs Elkington and Co. Ltd, London, c. 1925\""
 				},
 			"fclasses":["X"],
 			"types":[
