@@ -1,0 +1,267 @@
+{
+	"@id":"https://sarahmiddle.github.io/Peripleo_PelagiosOSC/data/PelagiosOSC_TransformedGeoJSONExport_20241022.json",
+	"type":"FeatureCollection",
+	"@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+	"features":[
+		{
+			"@id":"http://www.wikidata.org/entity/Q84",
+			"properties":{
+				"title":"London",
+				"description":"Wikidata description: capital and largest city of England and the United Kingdom\\n\\nAnnotation context: '...by Messrs Elkington and Co. Ltd, London, c. 1925...'\\n\\nObject identifier: T.1927.46",
+				"object_identifier":"T.1927.46",
+				"quotes":["London"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[-0.1275,51.507222222]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=212523",
+					"label":"Mariner's astrolabe",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q59725005",
+			"properties":{
+				"title":"Valencia",
+				"description":"Wikidata description: electoral district in County Kerry, Ireland\\n\\nAnnotation context: '...found in 1845 on the island of Valencia in Ireland...'\\n\\nObject identifier: T.1927.46",
+				"object_identifier":"T.1927.46",
+				"quotes":["Valencia"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[-10.3583862,51.9079597]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=212523",
+					"label":"Mariner's astrolabe",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q179385",
+			"properties":{
+				"title":"Greenwich",
+				"description":"Wikidata description: town in south-east London, England, UK\\n\\nAnnotation context: '...It is now in the National Maritime Museum at Greenwich in London...'\\n\\nObject identifier: T.1927.46",
+				"object_identifier":"T.1927.46",
+				"quotes":["Greenwich"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,51.48]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=212523",
+					"label":"Mariner's astrolabe",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q26793",
+			"properties":{
+				"title":"Bergen",
+				"description":"Wikidata description: Norwegian city in Vestland, Norway\\n\\nAnnotation context: '...Reproduction of an 18th-century cross-staff in Sjofartsmuseum, Bergen...'\\n\\nObject identifier: T.1929.140",
+				"object_identifier":"T.1929.140",
+				"quotes":["Bergen"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[5.323333333,60.3925]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=213098",
+					"label":"Cross-staff",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q55",
+			"properties":{
+				"title":"Netherlands",
+				"description":"Wikidata description: country in Northwestern Europe with territories in the Caribbean\\n\\nAnnotation context: '...This is a replica of a Dutch cross-staff made in 1745...'\\n\\nObject identifier: T.1929.140",
+				"object_identifier":"T.1929.140",
+				"quotes":["Dutch"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[5.55,52.316666666]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=213098",
+					"label":"Cross-staff",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q24826",
+			"properties":{
+				"title":"Liverpool",
+				"description":"Wikidata description: city in Merseyside, England, United Kingdom\\n\\nAnnotation context: '...Sextant signed 'John Bruce Liverpool', c. 1880...'\\n\\nObject identifier: T.1981.59",
+				"object_identifier":"T.1981.59",
+				"quotes":["Liverpool"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[-2.991666666,53.407222222]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=221106",
+					"label":"Sextant",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q51",
+			"properties":{
+				"title":"Antarctica",
+				"description":"Wikidata description: polar continent\\n\\nAnnotation context: '...went to South Polar regions on the Scottish National Antarctic Expedition 1902-1904...'\\n\\nObject identifier: T.1981.59",
+				"object_identifier":"T.1981.59",
+				"quotes":["South Polar regions"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[0,-90]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=221106",
+					"label":"Sextant",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q100",
+			"properties":{
+				"title":"Boston",
+				"description":"Wikidata description: capital and largest city of Massachusetts, United States\\n\\nAnnotation context: '...by Samuel Thaxter, Boston, c. 1800...'\\n\\nObject identifier: T.1985.29",
+				"object_identifier":"T.1985.29",
+				"quotes":["Boston"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[-71.057777777,42.360277777]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=222195",
+					"label":"Surveyor's compass",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q1011685",
+			"properties":{
+				"title":"Pittenweem",
+				"description":"Wikidata description: village in Fife, Scotland, UK\\n\\nAnnotation context: '...by Thomas Finlay of Pittenweem, begun in 1819...'\\n\\nObject identifier: T.1987.195",
+				"object_identifier":"T.1987.195",
+				"quotes":["Pittenweem"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[-2.728611111,56.213055555]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=223283",
+					"label":"Manuscript volume / navigational exercise",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q1774076",
+			"properties":{
+				"title":"Zhoushan Island",
+				"description":"Wikidata description: island in People's Republic of China\\n\\nAnnotation context: '...taken at Zhoushan Island, China, during First Opium War...'\\n\\nObject identifier: T.1861.716.132",
+				"object_identifier":"T.1861.716.132",
+				"quotes":["Zhoushan Island"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[122.138055555,30.057777777]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=224721",
+					"label":"Compass, mariner's",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q90",
+			"properties":{
+				"title":"Paris",
+				"description":"Wikidata description: capital city of France\\n\\nAnnotation context: '...by J. Le Blanc of Paris...'\\n\\nObject identifier: T.1953.X.1",
+				"object_identifier":"T.1953.X.1",
+				"quotes":["Paris"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[2.352222222,48.856666666]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=285507",
+					"label":"Sounding machine, deep sea",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q72259",
+			"properties":{
+				"title":"Portsmouth",
+				"description":"Wikidata description: city in Hampshire, England\\n\\nAnnotation context: '...signed and made by George Stebbing of Portsmouth, c. 1810...'\\n\\nObject identifier: T.2004.529",
+				"object_identifier":"T.2004.529",
+				"quotes":["Portsmouth"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[-1.087222222,50.805833333]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=636224",
+					"label":"Octant",
+					}
+				]
+			},
+		{
+			"@id":"http://www.wikidata.org/entity/Q43",
+			"properties":{
+				"title":"Turkey",
+				"description":"Wikidata description: country straddling Southeast Europe and West Asia\\n\\nAnnotation context: '...Turkish origin, and in a box marked 'Indischer Quadrant'...'\\n\\nObject identifier: T.2004.557",
+				"object_identifier":"T.2004.557",
+				"quotes":["Turkish"]
+				},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[36,39]
+				},
+			"links":[
+				{
+					"type":"primaryTopicOf",
+					"identifier":"https://www.nms.ac.uk/search-our-collections/collection-search-results?entry=636252",
+					"label":"Quadrant, Islamic / box",
+					}
+				]
+			}
+		]
+	}
