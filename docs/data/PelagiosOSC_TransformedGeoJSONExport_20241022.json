@@ -7,7 +7,7 @@
 			"@id":"http://www.wikidata.org/entity/Q84",
 			"properties":{
 				"title":"London",
-				"description":"Wikidata description: capital and largest city of England and the United Kingdom<br />Annotation context: '...by Messrs Elkington and Co. Ltd, London, c. 1925...'<br />Object identifier: T.1927.46",
+				"description":"Wikidata description: capital and largest city of England and the United Kingdom<br /><br />Annotation context: '...by Messrs Elkington and Co. Ltd, London, c. 1925...'<br /><br />Object identifier: T.1927.46",
 				"object_identifier":"T.1927.46",
 				"quotes":["London"]
 				},
@@ -27,7 +27,7 @@
 			"@id":"http://www.wikidata.org/entity/Q59725005",
 			"properties":{
 				"title":"Valencia",
-				"description":"Wikidata description: electoral district in County Kerry, Ireland\\n\\nAnnotation context: '...found in 1845 on the island of Valencia in Ireland...'\\n\\nObject identifier: T.1927.46",
+				"description":"Wikidata description: electoral district in County Kerry, Ireland<br /><br />Annotation context: '...found in 1845 on the island of Valencia in Ireland...'<br /><br />Object identifier: T.1927.46",
 				"object_identifier":"T.1927.46",
 				"quotes":["Valencia"]
 				},
@@ -47,7 +47,7 @@
 			"@id":"http://www.wikidata.org/entity/Q179385",
 			"properties":{
 				"title":"Greenwich",
-				"description":"Wikidata description: town in south-east London, England, UK\\n\\nAnnotation context: '...It is now in the National Maritime Museum at Greenwich in London...'\\n\\nObject identifier: T.1927.46",
+				"description":"Wikidata description: town in south-east London, England, UK<br /><br />Annotation context: '...It is now in the National Maritime Museum at Greenwich in London...'<br /><br />Object identifier: T.1927.46",
 				"object_identifier":"T.1927.46",
 				"quotes":["Greenwich"]
 				},
@@ -67,7 +67,7 @@
 			"@id":"http://www.wikidata.org/entity/Q26793",
 			"properties":{
 				"title":"Bergen",
-				"description":"Wikidata description: Norwegian city in Vestland, Norway\\n\\nAnnotation context: '...Reproduction of an 18th-century cross-staff in Sjofartsmuseum, Bergen...'\\n\\nObject identifier: T.1929.140",
+				"description":"Wikidata description: Norwegian city in Vestland, Norway<br /><br />Annotation context: '...Reproduction of an 18th-century cross-staff in Sjofartsmuseum, Bergen...'<br /><br />Object identifier: T.1929.140",
 				"object_identifier":"T.1929.140",
 				"quotes":["Bergen"]
 				},
@@ -87,7 +87,7 @@
 			"@id":"http://www.wikidata.org/entity/Q55",
 			"properties":{
 				"title":"Netherlands",
-				"description":"Wikidata description: country in Northwestern Europe with territories in the Caribbean\\n\\nAnnotation context: '...This is a replica of a Dutch cross-staff made in 1745...'\\n\\nObject identifier: T.1929.140",
+				"description":"Wikidata description: country in Northwestern Europe with territories in the Caribbean<br /><br />Annotation context: '...This is a replica of a Dutch cross-staff made in 1745...'<br /><br />Object identifier: T.1929.140",
 				"object_identifier":"T.1929.140",
 				"quotes":["Dutch"]
 				},
@@ -107,7 +107,7 @@
 			"@id":"http://www.wikidata.org/entity/Q24826",
 			"properties":{
 				"title":"Liverpool",
-				"description":"Wikidata description: city in Merseyside, England, United Kingdom\\n\\nAnnotation context: '...Sextant signed 'John Bruce Liverpool', c. 1880...'\\n\\nObject identifier: T.1981.59",
+				"description":"Wikidata description: city in Merseyside, England, United Kingdom<br /><br />Annotation context: '...Sextant signed 'John Bruce Liverpool', c. 1880...'<br /><br />Object identifier: T.1981.59",
 				"object_identifier":"T.1981.59",
 				"quotes":["Liverpool"]
 				},
@@ -127,7 +127,7 @@
 			"@id":"http://www.wikidata.org/entity/Q51",
 			"properties":{
 				"title":"Antarctica",
-				"description":"Wikidata description: polar continent\\n\\nAnnotation context: '...went to South Polar regions on the Scottish National Antarctic Expedition 1902-1904...'\\n\\nObject identifier: T.1981.59",
+				"description":"Wikidata description: polar continent<br /><br />Annotation context: '...went to South Polar regions on the Scottish National Antarctic Expedition 1902-1904...'<br /><br />Object identifier: T.1981.59",
 				"object_identifier":"T.1981.59",
 				"quotes":["South Polar regions"]
 				},
@@ -147,7 +147,7 @@
 			"@id":"http://www.wikidata.org/entity/Q100",
 			"properties":{
 				"title":"Boston",
-				"description":"Wikidata description: capital and largest city of Massachusetts, United States\\n\\nAnnotation context: '...by Samuel Thaxter, Boston, c. 1800...'\\n\\nObject identifier: T.1985.29",
+				"description":"Wikidata description: capital and largest city of Massachusetts, United States<br /><br />Annotation context: '...by Samuel Thaxter, Boston, c. 1800...'<br /><br />Object identifier: T.1985.29",
 				"object_identifier":"T.1985.29",
 				"quotes":["Boston"]
 				},
@@ -167,7 +167,7 @@
 			"@id":"http://www.wikidata.org/entity/Q1011685",
 			"properties":{
 				"title":"Pittenweem",
-				"description":"Wikidata description: village in Fife, Scotland, UK\\n\\nAnnotation context: '...by Thomas Finlay of Pittenweem, begun in 1819...'\\n\\nObject identifier: T.1987.195",
+				"description":"Wikidata description: village in Fife, Scotland, UK<br /><br />Annotation context: '...by Thomas Finlay of Pittenweem, begun in 1819...'<br /><br />Object identifier: T.1987.195",
 				"object_identifier":"T.1987.195",
 				"quotes":["Pittenweem"]
 				},
@@ -187,7 +187,7 @@
 			"@id":"http://www.wikidata.org/entity/Q1774076",
 			"properties":{
 				"title":"Zhoushan Island",
-				"description":"Wikidata description: island in People's Republic of China\\n\\nAnnotation context: '...taken at Zhoushan Island, China, during First Opium War...'\\n\\nObject identifier: T.1861.716.132",
+				"description":"Wikidata description: island in People's Republic of China<br /><br />Annotation context: '...taken at Zhoushan Island, China, during First Opium War...'<br /><br />Object identifier: T.1861.716.132",
 				"object_identifier":"T.1861.716.132",
 				"quotes":["Zhoushan Island"]
 				},
@@ -207,7 +207,7 @@
 			"@id":"http://www.wikidata.org/entity/Q90",
 			"properties":{
 				"title":"Paris",
-				"description":"Wikidata description: capital city of France\\n\\nAnnotation context: '...by J. Le Blanc of Paris...'\\n\\nObject identifier: T.1953.X.1",
+				"description":"Wikidata description: capital city of France<br /><br />Annotation context: '...by J. Le Blanc of Paris...'<br /><br />Object identifier: T.1953.X.1",
 				"object_identifier":"T.1953.X.1",
 				"quotes":["Paris"]
 				},
@@ -227,7 +227,7 @@
 			"@id":"http://www.wikidata.org/entity/Q72259",
 			"properties":{
 				"title":"Portsmouth",
-				"description":"Wikidata description: city in Hampshire, England\\n\\nAnnotation context: '...signed and made by George Stebbing of Portsmouth, c. 1810...'\\n\\nObject identifier: T.2004.529",
+				"description":"Wikidata description: city in Hampshire, England<br /><br />Annotation context: '...signed and made by George Stebbing of Portsmouth, c. 1810...'<br /><br />Object identifier: T.2004.529",
 				"object_identifier":"T.2004.529",
 				"quotes":["Portsmouth"]
 				},
@@ -247,7 +247,7 @@
 			"@id":"http://www.wikidata.org/entity/Q43",
 			"properties":{
 				"title":"Turkey",
-				"description":"Wikidata description: country straddling Southeast Europe and West Asia\\n\\nAnnotation context: '...Turkish origin, and in a box marked 'Indischer Quadrant'...'\\n\\nObject identifier: T.2004.557",
+				"description":"Wikidata description: country straddling Southeast Europe and West Asia<br /><br />Annotation context: '...Turkish origin, and in a box marked 'Indischer Quadrant'...'<br /><br />Object identifier: T.2004.557",
 				"object_identifier":"T.2004.557",
 				"quotes":["Turkish"]
 				},
