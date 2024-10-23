@@ -7,7 +7,7 @@
 			"@id":"http://www.wikidata.org/entity/Q84",
 			"properties":{
 				"title":"London",
-				"description":"Wikidata description: capital and largest city of England and the United Kingdom\\n\\nAnnotation context: '...by Messrs Elkington and Co. Ltd, London, c. 1925...'\\n\\nObject identifier: T.1927.46",
+				"description":"Wikidata description: capital and largest city of England and the United Kingdom\n\nAnnotation context: '...by Messrs Elkington and Co. Ltd, London, c. 1925...'\n\nObject identifier: T.1927.46",
 				"object_identifier":"T.1927.46",
 				"quotes":["London"]
 				},
