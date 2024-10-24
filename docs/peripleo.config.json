@@ -10,7 +10,8 @@
     }
   ],
   "facets": [
-    "type"
+    "type",
+    { "name": "annotation context", "path": ["properties", "annotation_context"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
