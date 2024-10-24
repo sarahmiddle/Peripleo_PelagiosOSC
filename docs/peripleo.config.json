@@ -10,7 +10,6 @@
     }
   ],
   "facets": [
-    "type",
     { "name": "Object Identifier", "path": ["properties", "object_identifier"] }
   ],
   "link_icons": [
