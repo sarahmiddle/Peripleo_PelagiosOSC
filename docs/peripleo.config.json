@@ -11,7 +11,7 @@
   ],
   "facets": [
     "type",
-    { "name": "annotation context", "path": ["properties", "annotation_context"] }
+    { "name": "Object Identifier", "path": ["properties", "object_identifier"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
